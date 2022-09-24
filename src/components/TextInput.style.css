@@ -1,0 +1,17 @@
+.group {
+  position: relative;
+  margin: 45px 0;
+}
+.text-input {
+  background: none;
+  background-color: rgba(0, 0, 0, 0.08);
+  color: "grey";
+  font-size: 18px;
+  padding: 10px 10px 10px 5px;
+  display: block;
+  width: 90%;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid black;
+  margin: 25px 0;
+}

@@ -1,0 +1,114 @@
+/* resuable code */
+
+.margin-auto {
+  margin: auto;
+}
+
+.status-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem;
+}
+
+.status-icons-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-container {
+  margin: 5.875rem 2.87rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.headline {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 36px;
+  text-align: center;
+  color: #240d57;
+}
+
+.snapchat-text {
+  background: linear-gradient(90deg, #8456ec 24.2%, #e87bf8 120.46%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.header-paragraph {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: center;
+  margin-top: 1rem;
+  color: #4f4f4f;
+}
+
+.landing-page-image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 165.63px;
+  height: 292px;
+}
+
+.bottom-container {
+  background: rgba(249, 249, 249, 0.94);
+}
+
+.input-border-container {
+  border-radius: 12px;
+  height: 44px;
+  width: 331px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3.12rem auto;
+
+  width: 187px;
+  height: 50px;
+
+  background: linear-gradient(90deg, #8456ec 3.25%, #e87bf8 100%);
+  border-radius: 10px;
+}
+
+.background-container {
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.icon-style {
+  width: 15px;
+  height: 15px;
+  margin-top: 1rem;
+}
+
+.domain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.domain-text {
+  margin-left: 10px;
+}
+
+.line-dashed {
+  width: 133px;
+  height: 5px;
+  bottom: 8px;
+
+  background: #000000;
+  border-radius: 100px;
+}
